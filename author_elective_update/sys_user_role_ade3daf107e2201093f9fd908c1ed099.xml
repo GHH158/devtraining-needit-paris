@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by display_value="x_58872_needit.admin" name="x_58872_needit.admin">8f788a7d07a2201093f9fd908c1ed076</assignable_by>
+        <can_delegate>true</can_delegate>
+        <description>Test Assignable by and Elevated privilege</description>
+        <elevated_privilege>true</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_58872_needit.ElevatedOrivilege</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>ElevatedOrivilege</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-26 07:14:13</sys_created_on>
+        <sys_id>ade3daf107e2201093f9fd908c1ed099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.ElevatedOrivilege</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_ade3daf107e2201093f9fd908c1ed099</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-26 07:14:13</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>04f1aa54db1d97403353f22ebf961916</instance_id>
+        <instance_name>dev54849</instance_name>
+        <name>sys_user_role_ade3daf107e2201093f9fd908c1ed099</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by display_value="x_58872_needit.admin" name="x_58872_needit.admin">8f788a7d07a2201093f9fd908c1ed076</assignable_by><can_delegate>true</can_delegate><description>Test Assignable by and Elevated privilege</description><elevated_privilege>true</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_58872_needit.ElevatedOrivilege</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>ElevatedOrivilege</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-26 07:14:13</sys_created_on><sys_id>ade3daf107e2201093f9fd908c1ed099</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.ElevatedOrivilege</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_ade3daf107e2201093f9fd908c1ed099</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-26 07:14:13</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>417617150</payload_hash>
+        <record_name>x_58872_needit.ElevatedOrivilege</record_name>
+        <reverted_from/>
+        <source>acbcf9e807e6201093f9fd908c1ed0ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-26 07:14:13</sys_created_on>
+        <sys_id>97145e7507e2201093f9fd908c1ed082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177dd301b8b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-26 07:14:13</sys_updated_on>
+        <type>Role</type>
+        <update_guid>df145e75b8e220100943d4d33bec8c81</update_guid>
+        <update_guid_history>df145e75b8e220100943d4d33bec8c81:417617150</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit.ElevatedOrivilege">38e552f507e2201093f9fd908c1ed056</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-26 07:21:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>00f623cb886f4cf280f007fc8f2da639</sys_id>
+        <sys_metadata>ade3daf107e2201093f9fd908c1ed099</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.ElevatedOrivilege</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_ade3daf107e2201093f9fd908c1ed099</sys_update_name>
+        <sys_update_version display_value="sys_user_role_ade3daf107e2201093f9fd908c1ed099">97145e7507e2201093f9fd908c1ed082</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-26 07:21:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
